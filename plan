@@ -1,0 +1,154 @@
+WEEK 1 (Day 1–7): OOP Foundations (Core Building)
+✅ Day 1: OOP Basics
+What is OOP?
+Class vs Object
+Creating class in Python
+
+👉 Practice:
+
+Create Student class (name, age, marks)
+✅ Day 2: Constructors & self
+__init__() method
+self keyword
+
+👉 Practice:
+
+Create Car class with constructor
+✅ Day 3: Instance vs Class Variables
+Instance variables
+Class variables
+
+👉 Practice:
+
+Count number of objects created
+✅ Day 4: Methods
+Instance methods
+Class methods (@classmethod)
+Static methods (@staticmethod)
+
+👉 Practice:
+
+Bank Account class
+✅ Day 5: Encapsulation
+Private variables (__var)
+Getter/Setter methods
+
+👉 Practice:
+
+Secure Bank Account
+✅ Day 6: Inheritance
+Single inheritance
+super() keyword
+
+👉 Practice:
+
+Person → Employee
+✅ Day 7: Polymorphism
+Method overriding
+Operator overloading (__add__)
+
+👉 Practice:
+
+Shape class (Circle, Rectangle)
+🔥 WEEK 2 (Day 8–14): Advanced OOP + Start DSA
+✅ Day 8: Abstraction
+Abstract classes (abc module)
+
+👉 Practice:
+
+Payment system
+✅ Day 9: Magic/Dunder Methods
+__str__, __len__, __repr__
+
+👉 Practice:
+
+Custom object printing
+✅ Day 10: Mini Project 🔥
+
+👉 Build:
+
+Library Management System
+Add book
+Issue book
+Return book
+🔥 Now Switch to DSA
+✅ Day 11: DSA Basics
+What is DSA?
+Time Complexity (Big-O)
+
+👉 Learn:
+
+O(1), O(n), O(n²)
+✅ Day 12: Arrays (Most Important)
+Traversal
+Insert/Delete
+
+👉 Practice:
+
+Reverse array
+Find max/min
+✅ Day 13: Strings
+String operations
+
+👉 Practice:
+
+Palindrome
+Count vowels
+✅ Day 14: Searching
+Linear Search
+Binary Search
+
+👉 Practice:
+
+Implement both
+🔥 WEEK 3 (Day 15–21): Core DSA + Problem Solving
+✅ Day 15: Sorting
+Bubble Sort
+Selection Sort
+
+👉 Practice:
+
+Sort array manually
+✅ Day 16: Lists & Python Built-ins
+List operations
+append, pop, sort
+✅ Day 17: Stack
+LIFO concept
+
+👉 Practice:
+
+Implement using list
+✅ Day 18: Queue
+FIFO concept
+
+👉 Practice:
+
+Implement queue
+✅ Day 19: Dictionary & Hashing
+Key-value concept
+
+👉 Practice:
+
+Frequency counter
+✅ Day 20: Problem Solving Day 🔥
+
+Solve 5 problems:
+
+Two Sum
+Reverse string
+Palindrome
+Max element
+Remove duplicates
+✅ Day 21: Final Project + Revision
+
+👉 Build:
+
+Student Management System
+Uses OOP + DSA concepts
+🧠 Daily Routine (VERY IMPORTANT)
+
+Each day:
+
+Learn concept
+Write code yourself (don’t copy)
+Solve 2–3 problems
